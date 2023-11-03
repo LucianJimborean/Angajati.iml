@@ -1,0 +1,23 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úû“Ùûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ù–íüÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(…¾ü2
+E	java:S106 "+Replace this use of System.out by a logger.(”²Ğ„ÿÿÿÿÿ
+@	java:S106'"+Replace this use of System.out by a logger.(«ÇÔ˜
+E	java:S106*"+Replace this use of System.out by a logger.(ï§²àûÿÿÿÿ
+@	java:S106-"+Replace this use of System.out by a logger.(‘›´š
+@	java:S1064"+Replace this use of System.out by a logger.(¼’„¿
+E	java:S1068"+Replace this use of System.out by a logger.(”²Ğ„ÿÿÿÿÿ
+@	java:S106?"+Replace this use of System.out by a logger.(Ù¨¢”
+@	java:S106A"+Replace this use of System.out by a logger.(°ù­“
+@	java:S106C"+Replace this use of System.out by a logger.(¦ØÿÕ
+E	java:S106E"+Replace this use of System.out by a logger.(ÿÉË‘ûÿÿÿÿ
+E	java:S106G"+Replace this use of System.out by a logger.(Ëù·Üıÿÿÿÿ
+~
+java:S1157M"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(˜¸™çùÿÿÿÿ
+y
+java:S1157Q"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ëá¿õ
+~
+java:S1157U"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(´Ö„¦şÿÿÿÿ
+y
+java:S1157Y"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(øğ®ğ
